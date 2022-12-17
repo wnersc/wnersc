@@ -2,7 +2,7 @@
 
 <!--
 **wnersc/wnersc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My ![Visitor Count](https://profile-counter.glitch.me/wnersc/count.svg) visitor
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
